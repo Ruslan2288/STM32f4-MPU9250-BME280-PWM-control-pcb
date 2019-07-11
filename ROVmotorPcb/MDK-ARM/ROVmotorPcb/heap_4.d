@@ -1,0 +1,13 @@
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+rovmotorpcb\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+rovmotorpcb\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+rovmotorpcb\heap_4.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+rovmotorpcb\heap_4.o: ../Inc/FreeRTOSConfig.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+rovmotorpcb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

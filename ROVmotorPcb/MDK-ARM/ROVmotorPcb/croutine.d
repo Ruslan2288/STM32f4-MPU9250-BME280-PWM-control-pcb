@@ -1,0 +1,14 @@
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+rovmotorpcb\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+rovmotorpcb\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+rovmotorpcb\croutine.o: ../Inc/FreeRTOSConfig.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+rovmotorpcb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
